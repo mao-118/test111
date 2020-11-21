@@ -5,6 +5,9 @@ public class FirstGitClass {
         System.out.println("aaa");
     }
     public void test(){
+        for (int i = 0; i < 5; i++) {
+            System.out.println(i);
+        }
         System.out.println("test");
     }
 }
